@@ -150,7 +150,7 @@ section.success {
       border-radius: 3px;
       background: #D9E9FF; }
       #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
-        color: white;
+        color: #06605A;
         background: #D9E9FF; }
   #mainNav.navbar-shrink {
     padding-top: 10px;
